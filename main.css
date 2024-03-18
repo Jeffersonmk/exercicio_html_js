@@ -35,3 +35,7 @@ button {
 button:hover {
     background-color: #00c57d;
 }
+
+h2 {
+    margin-top: 10px;
+}
